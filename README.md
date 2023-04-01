@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Project is meant to be a classification model for different tetris openers. I had to manually collect all the openers I planned on using, trying to add a good variety by including the openers being built on different games. I created, trained, and tested a convolutional neural network(CNN) to classify each of the openers. I then grabbed said model and created a python flask server to host the model and a website where you can easily classify openers. 
+This project is meant to be a classification model for different tetris openers. I had to manually collect all the openers I planned on using, trying to add a good variety by including the openers being built on different games. I created, trained, and tested a convolutional neural network(CNN) to classify each of the openers. I then grabbed said model and created a python flask server to host the model and a website where you can easily classify openers. 
 
 ## Overview of Tetris Openers and Dataset
 
